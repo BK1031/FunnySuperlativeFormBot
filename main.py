@@ -172,7 +172,7 @@ while True:
     else:
         print("Sleep time...")
 
-    wait = random.randint(900, 2700)
+    wait = random.randint(900, 2400)
     print("waiting " + str(wait) + "...")
     time.sleep(wait);
     print("")
