@@ -161,4 +161,4 @@ while True:
 
     driver.quit()
     counter += 1
-    time.sleep(random.randint(1, 5));
+    time.sleep(random.randint(500, 1,200));
